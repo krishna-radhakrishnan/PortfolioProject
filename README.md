@@ -1,6 +1,6 @@
 # PortfolioProject
 
-Covid Report was designed in Microsoft Power BI using data for Covid’19 Deaths and Vaccinations, from the “Our World in Data” website.(link given below)
+Covid Report was designed in Microsoft Power BI using data for Covid’19 Deaths and Vaccinations, from the “Our World in Data” website.
 https://ourworldindata.org/covid-deaths
 
 The data was downloaded as a single CSV file containing all the data as columns. Analysis was done on the data by importing it into Power BI, cleansed by removing null values,
