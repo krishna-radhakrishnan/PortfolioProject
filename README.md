@@ -8,7 +8,7 @@ duplicates and unwanted columns, filtering rows and replacing values. Data trans
 was created on top of it. Different visuals were created from this data model which helps in analyzing the data more efficiently.
 
 Concepts used in the report: 
-  1. Map, Clustered Column Chart, Line Chart, Doughnut Chart, Treemap 
+  1. Map, Clustered Column Chart, Line Chart, Doughnut Chart, Treemap
   2. Slicer visual to dynamically filter values in the report 
   3. Drill down and drill through features 
   4. Date wise report on covid cases, deaths and vaccinations 
